@@ -1,0 +1,128 @@
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the order of dataorder and indexorder
+
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+2000
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+3000
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+4000
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+*********** level :: nodes  ***********
+level 0  1000 2000 3000 4000   |   
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+2 2 1
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+*********** level :: nodes  ***********
+level 0  2001 4001   |   
+level 1  1000 2000   |   3000 4000   |   5000   |   
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+6000
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+7000
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+8000
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+3500
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+3900
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+2 2 1
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+*********** level :: nodes  ***********
+level 0  3901   |   
+level 1  2001 3501   |   4001   |   
+level 2  1000 2000   |   3000 3500   |   3600 3900   |   4000   |   5000 6000 7000 8000   |   
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+enter the key
+2 2 1
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
+*********** level :: nodes  ***********
+level 0  3901   |   
+level 1  2001 3501   |   4001 6001 8001   |   
+level 2  1000 2000   |   3000 3500   |   3600 3900   |   4000   |   5000 6000   |   7000 8000   |   9000   |   
+enter 1 to create a new Btree
+enter 2 to insert a key
+enter 3 to search the key
+enter 4 to print the tree
+enter any key to terminate the programm
